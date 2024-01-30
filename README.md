@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jumbopere
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently breathing Javascript
 - 💞️ I’m looking to collaborate on Cool Project
 - 📫 How to reach me ...
 
